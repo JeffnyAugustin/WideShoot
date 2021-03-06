@@ -70,16 +70,8 @@ color: #000000;
   border-color: #ff914D;
   color: #ffffff;
   background-color: #ff914D;
+  outline: none;
 }
-
-.btn-outline-primary:hover
-{
-border-color: #ff914D;
-color: #ff914D;
-background-color: #ffffff;
-
-}
-
 
 h1
 {
@@ -112,6 +104,7 @@ p
   padding: 12px 20px !important;
   border-color: #ffffff !important;
   background-color: #000000;
+  outline: none;
 }
 
 .btn-store:focus, 
@@ -119,6 +112,7 @@ p
   color: #ffffff !important;
   background-color: #ff914D;
   border-color: #ff914D !important;
+  outline: none;
 }
 
 .btn-store .btn-label, 
@@ -169,6 +163,7 @@ h4
   bottom: 30px;
   right: 30px;
   z-index: 9;
+  outline: none;
 }
 
 .arrow-btn a 
@@ -260,6 +255,7 @@ color:  #ff914D;
 {
 background-color: #ff914D;
 border-color: #ff914D;
+outline: none;
 }
 
 .p-3
